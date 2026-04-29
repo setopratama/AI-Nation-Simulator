@@ -772,5 +772,3 @@ Cabinet live discussion
 ## STEP 7
 
 Real-world news integration
-
-Jangan langsung membuat semuanya sekaligus.
